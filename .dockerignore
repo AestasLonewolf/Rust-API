@@ -1,0 +1,8 @@
+*/.vscode
+frontend/dist
+frontend/node_modules
+target/
+.git
+*/todo
+
+target

@@ -1,7 +1,7 @@
 # Research Project: Rust API
 
 ## Setup
-Project can be easily launched with Docker, just run the `docker-compose.yml`!
+Project can be easily launched with Docker, just run the `docker-compose.yml`
 
 
 You can also opt to launch it the manual way for development.
@@ -51,7 +51,7 @@ Creates a user in database, requires Authorisation token for UID
 #### Request
 ```json
 {
-    "username": "aaron"
+    "username": "aestas"
 }
 ```
 #### Response
@@ -60,7 +60,7 @@ Creates a user in database, requires Authorisation token for UID
     "id": 4,
     "uid": "9XppyFMscLe15daqncSpFXiSqKG2",
     "role": 0,
-    "username": "aaron",
+    "username": "aestas",
     "score": 0,
     "history": []
 }

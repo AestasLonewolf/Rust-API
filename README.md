@@ -74,9 +74,12 @@ Fetch all users, requires admin
 Fetch user by ID, requires admin
 
 `GET /users/self`
+
 Fetch yourself from database
 
-`DELETE /users/
+`DELETE /users/self/reset`
+
+Delete user from database
 
 ### Quizzes
 
